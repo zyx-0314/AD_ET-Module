@@ -8,7 +8,7 @@
     <img src="./docs/img/nyebe_white.png" alt="Nyebe" width="130" height="100">
   </a>
 
-  <h3 align="center">Module 2 Samples</h3>
+  <h3 align="center">Module Samples</h3>
 </div>
 
 <br />
