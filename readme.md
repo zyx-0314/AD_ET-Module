@@ -68,7 +68,7 @@ This project serves as plasygound for sample coding of php fundamentals tackled 
 ### Fork
 You can make your own copy of the project by Forking the project.
 
-<img src="./Docs/img/fork.png" alt="Nyebe" width="1000" height="100">
+<img src="./docs/img/fork.png" alt="Nyebe" width="1000" height="100">
 
 You can contribute by doing Pull Request after you modify the project. 
 
