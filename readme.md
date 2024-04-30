@@ -52,8 +52,8 @@ This project serves as plasygound for sample coding of php fundamentals tackled 
 
 ### Key Components
 - PHP file as index
-- Parallax transition
-- Transactional
+- Fundamentals: Loop, Conditional
+- Session
 
 ### Technology
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
